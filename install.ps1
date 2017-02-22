@@ -2,7 +2,7 @@
 # install.ps1
 #
 
-$Name = 'PsLogHandler'
+$Name = 'PsCommandCache'
 $Author = 'SteloNLD'
 
 $CurrentPath = $PSCommandPath | Split-Path
